@@ -2,7 +2,7 @@
 
 A collaborative cybersecurity risk assessment focused on identifying threats, vulnerabilities, and security risks in an educational online learning platform.
 
-**##Project Overview**
+**Project Overview**
 
 A case study examining the security of an online learning system through asset identification, threat analysis, risk assessment, and security control recommendations.
 
